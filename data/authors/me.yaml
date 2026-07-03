@@ -66,21 +66,40 @@ education:
     end: 2014-06-28
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Postdoctoral Research Associate
+    org: Virginia Tech
+    start: 2023-12-10
+    end: 2026-06-02
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Co-Principal Investigator for the Occoquan Watershed Modeling Framework. Developing AI-based frameworks for land-use prediction and climate-informed extreme precipitation modeling (UFOKN).
+    #button:
+    #  text: View portfolio
+    #  url: /
+    #  icon: hero/arrow-down-tray
+  - role: Research Assistant/Visiting PhD Scholar
+    org: Virginia Tech
+    start: 2022-11-01
+    end: 2023-12-09
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Developed tools for climate-informed extreme precipitation modeling (UFOKN). Generated nonstationary design extreme precipitation for vulnerability assessment.
+  - role: Visiting PhD Scholar
+    org: Purdue University
+    start: 2021-06-03
+    end: 2022-10-31
+    summary: |
+      Developed a novel integrative framework for assessment of climate change impact on urban floods.
+  - role: Project Assistant
+    org: Indian Institute of Technology Roorkee
+    start: 2017-08-01
+    end: 2017-12-20
+    summary: |
+      Hydrologic modelling using SWAT model for Sutlej-Beas Basin India in “Sustaining Himalaya Water Resources in a Changing Climate (SusHi-Wat)”, UK-India Newton-Bhabha Sustainable Water Resources (SWR) thematic program.
+  - role: Senior Research FellowNational Institute of Hydrology
+    org: National Institute of Hydrology
+    start: 2016-09-06
+    end: 2017-07-31
+    summary: |
+      Developed SWAT and VIC hydrologic models for Lesser Himalayan catchments in India. Field measurements of infiltration capacity and soil hydraulic conductivity in the study watershed.
 
 skills:
   - name: Technical Skills
